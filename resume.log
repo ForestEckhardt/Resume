@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.14)  15 SEP 2017 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.14)  19 SEP 2017 14:32
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -378,53 +378,83 @@ LaTeX Font Info:    Try loading font information for OT1+phv on input line 14.
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 18.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 19.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 23.
 
 Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
  
  []
 
 
-Overfull \hbox (8.2589pt too wide) in paragraph at lines 34--37
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 43.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Overfull \hbox (8.2589pt too wide) in paragraph at lines 74--77
  \OT1/phv/m/n/10 er-a-tions, Em-be-ded Con-trols, Foun-da-tions of Com-puter Sc
 i-ence, 'Com-puter Ar-chi-tec-ture,Networks,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 59.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
@@ -434,18 +464,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 Here is how much of TeX's memory you used:
  907 strings out of 493323
  11092 string characters out of 3139066
- 67141 words of memory out of 3000000
+ 68141 words of memory out of 3000000
  4493 multiletter control sequences out of 15000+200000
  9272 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,4n,19p,262b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,4n,19p,264b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program
  Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helve
 tic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb
 >
-Output written on resume.pdf (1 page, 37964 bytes).
+Output written on resume.pdf (1 page, 38046 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
